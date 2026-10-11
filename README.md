@@ -25,3 +25,7 @@ LabFetch is a web platform developed as part of the **2CP Multidisciplinary Proj
 ## 👥 Project
 
 LabFetch was developed as a **team project in an academic setting in 2025**, combining web development, web scraping, data management, and interactive data visualization.
+
+## Code Availability
+
+The source code is not publicly available because this project was developed collaboratively within an academic context and contains internal configuration details. This repository is intended to present the project, its objectives, and my experience while respecting the team's work and security requirements
